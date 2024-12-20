@@ -1,0 +1,3 @@
+-- INSERT INTO `role` (`ID`, `LABEL`) VALUES (1, 'ROLE_EMPLOYE');
+-- INSERT INTO `role` (`ID`, `LABEL`) VALUES (2, 'ROLE_USER');
+-- INSERT INTO `role` (`ID`, `LABEL`) VALUES (3, 'ROLE_ADMIN');
